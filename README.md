@@ -104,7 +104,3 @@ Open latest version of notebook in __Jupyter Notebook__.
 ---
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact)](https://github.com/mohd-faizy/github-readme-stats)
